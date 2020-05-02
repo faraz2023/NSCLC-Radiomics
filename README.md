@@ -9,7 +9,9 @@ It is assumed that you have downloaded the data from here: [NSCLC-Radiomics] (ht
 
 You will find summary of code behaviour here. In addition, you can also find a detailed account of what each script does and use in **ReadMe** folder of the repo. 
 
+## Technologies
 
+Python is the main tool that I have utlized for this project. You can find the environment file in **Z-Conda-Env** and replicated my environment. 
 # Code Overview
 
 ### 01-organize-dcm-files.py
