@@ -6,6 +6,8 @@ v0.1 is now posted. You can open the notebook and follow the steps. Name: `v0.1-
 
 You should note that the notebook assumes you have downloaded NSCLC data (classical nameing) and have it on the same directory as the root of the repository. 
 
+![Folder Structure](folder_structure.png)
+
 ## Instructions
 The notebook has been written with full documentation. You can review the steps of the code there. 
 
