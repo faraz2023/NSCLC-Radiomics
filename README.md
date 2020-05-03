@@ -2,7 +2,9 @@
 The repo where I keep my project for NSCLC-Radiomics data analytics. You can find a history of this readme file at ReadMe/Z-readme_archive
 
 # Current Organization
-v0.1 is not posted. You can open the notebook and follow the steps
+v0.1 is not posted. You can open the notebook and follow the steps.
+
+You should note that the notebook assumes you have downloaded NSCLC data (classical nameing) and have it on the same directory as the root of the repository. 
 
 ## Instructions
 The notebook has been written with full documentation. You can review the steps of the code there. 
