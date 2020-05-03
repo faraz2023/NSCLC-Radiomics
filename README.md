@@ -12,7 +12,7 @@ You should note that the notebook assumes you have downloaded NSCLC data (classi
 ## Instructions
 The notebook has been written with full documentation. You can review the steps of the code there. 
 
-My tool set does not include anything fancy, but for eas of use I have added my Conda env file. 
+My tool set does not include anything fancy, but for ease of use I have added my Conda env file. 
 You can clone my environment with command:
 ```
 conda env create -f ./Z-CondaEnv/ims_mini_project_env.yml
