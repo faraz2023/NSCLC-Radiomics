@@ -24,7 +24,7 @@ python -m ipykernel install --user --name=ims_mini_project
 ```
 
 ## Technologies
-Python is the main tool that I have utlized for this project. You can find the environment file in **Z-Conda-Env** and replicated my environment. 
+Python is the main tool that I have utlized for this project. You can find the environment file in **Z-Conda-Env** and replicate my environment. 
 
 # Code Overview
 Full code overview is available in v0.1 notebook
