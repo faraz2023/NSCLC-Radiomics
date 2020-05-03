@@ -1,13 +1,18 @@
 # NSCLC-Radiomics
-The repo where I keep my project for NSCLC-Radiomics data analytics
+The repo where I keep my project for NSCLC-Radiomics data analytics. You can find a history of this readme file at ReadMe/Z-readme_archive
 
 # Current Organization
-You will find python scripts with number prefixes. The numbers indicate the order of execution for processing the data. 
-It is assumed that you have downloaded the data from here: [NSCLC-Radiomics] (https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics) and have the data at the same direcotry as the github repo. 
+v0.1 is not posted. You can open the notebook and follow the steps
 
 ## Instructions
+The notebook has been written with full documentation. You can review the steps of the code there. 
 
-You will find summary of code behaviour here. In addition, you can also find a detailed account of what each script does and use in **ReadMe** folder of the repo. 
+My tool set does not include anything fancy, but for eas of use I have added my Conda env file. 
+You can clone my environment with command:
+```
+conda env create -f ./Z-CondaEnv/ims_mini_project_env.yml
+
+```
 
 ## Technologies
 
